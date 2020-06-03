@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "half=bottom,variant=default": { "model": "modmarcjus:bottom_landing_pad" },
+        "half=top,variant=default": { "model": "modmarcjus:upper_landing_pad" }
+    }
+}
+

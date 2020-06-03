@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "variant=normal": { "model": "modmarcjus:present_normal" },
+        "variant=luckiest": { "model": "modmarcjus:present_luckiest"}
+    }
+}

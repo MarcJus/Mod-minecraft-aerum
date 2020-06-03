@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "variant=default": { "model": "modmarcjus:jump_pad_double" }
+    }
+}

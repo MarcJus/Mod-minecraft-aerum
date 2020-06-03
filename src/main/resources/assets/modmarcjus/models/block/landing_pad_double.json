@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "modmarcjus:blocks/landing_pad_top",
+        "side": "modmarcjus:blocks/landing_pad_side"
+    }
+}

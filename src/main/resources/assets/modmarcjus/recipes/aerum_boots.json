@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "# #",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "modmarcjus:aerum_ingot"
+    }
+  },
+  "result": {
+    "item": "modmarcjus:aerum_boots",
+    "data": 0,
+    "count": 1
+  }
+}

@@ -1,0 +1,10 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+    	"particle": "modmarcjus:blocks/killer_block",
+        "top": "modmarcjus:blocks/killer_block",
+        "bottom": "modmarcjus:blocks/killer_block_other",
+        "side": "modmarcjus:blocks/killer_block_other",
+        "front": "modmarcjus:blocks/killer_block_other"
+    }
+}

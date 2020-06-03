@@ -1,0 +1,16 @@
+[
+{
+  "modid": "modmarcjus",
+  "name": "Mod de Marcjus",
+  "description": "Mod de Marc",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["MarcJus"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

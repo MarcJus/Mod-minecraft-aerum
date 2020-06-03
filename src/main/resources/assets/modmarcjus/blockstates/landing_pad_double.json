@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "variant=default": { "model": "modmarcjus:landing_pad_double" }
+    }
+}

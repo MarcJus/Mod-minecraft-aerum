@@ -1,0 +1,39 @@
+item.aerum_killer.name=Tueur
+item.aerum_helmet.name=Casque en Aerum
+item.aerum_chestplate.name=Plastron en Aerum
+item.aerum_leggings.name=Jambières en Aerum
+item.aerum_boots.name=Bottes en Aerum
+item.aerum_sword.name=Epee en Aerum
+item.aerum_pickaxe.name=Pioche en Aerum
+item.aerum_axe.name=Hache en Aerum
+item.aerum_ingot.name=Lingot en Aerum
+item.invisible_helmet.name=Casque Invisible
+item.invisible_chestplate.name=Plastron Invisible
+item.invisible_leggings.name=Jambieres Invisibles
+item.invisible_boots.name=Bottes Invisibles
+item.aerum_stick.name=Bâton en Aerum
+item.time_modifier.name=Modificateur de Temps
+
+tile.test_block.name=Fond Vert
+tile.aerum_ore.name=Minerai d'Aerum
+present.name=Cadeau Normal
+present_1.name=Cadeau Rare
+tile.elevator.name=Elevateur
+tile.aerum_block.name=Block d'Aerum
+tile.killer_block.name=Bloc Tueur
+tile.cave_block.name=Cave Block
+tile.jump_pad.name=Tremplin
+tile.landing_pad.name=Atterrisseur
+
+key.categories.aerum=Aerum
+
+modmarcjus.up_elevator=Monter d'un niveau d'elevateur
+modmarcjus.down_elevator=Descendre d'un niveau d'elevateur
+
+itemGroup.modmarcjus=Aerum
+
+menu.localserver=Serveur Local
+menu.main.controls=Controles...
+
+enchantment.double_jump=Double Saut
+enchantment.infinite_jump=Sauts Infini

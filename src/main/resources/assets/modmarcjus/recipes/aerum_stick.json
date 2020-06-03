@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#",
+        "#"
+    ],
+    "key": {
+        "#": {
+            "item": "modmarcjus:aerum_ingot",
+            "data": 0
+        }
+    },
+    "result": {
+        "item": "modmarcjus:aerum_stick",
+        "data": 0,
+        "count": 1
+    }
+}

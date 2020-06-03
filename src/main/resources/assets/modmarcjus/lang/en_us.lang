@@ -1,0 +1,50 @@
+item.aerum_killer.name=Killer
+item.aerum_helmet.name=Aerum Helmet
+item.aerum_chestplate.name=Aerum Chestplate
+item.aerum_leggings.name=Aerum Leggings
+item.aerum_boots.name=Aerum Boots
+item.aerum_sword.name=Aerum Sword
+item.aerum_pickaxe.name=Aerum Pickaxe
+item.aerum_axe.name=Aerum Axe
+item.aerum_ingot.name=Aerum Ingot
+item.invisible_helmet.name=Invisible Helmet
+item.invisible_chestplate.name=Invisible Chestplate
+item.invisible_leggings.name=Invisible Leggings
+item.invisible_boots.name=Invisible Boots
+item.aerum_stick.name=Aerum Stick
+item.time_modifier.name=Time Modifier
+item.magiball.name=Magiball
+
+tile.aerum_ore.name=Aerum Ore
+present.name=Normal Present
+present_1.name=Rare Present
+tile.elevator.name=Elevator
+tile.aerum_block.name=Aerum Block
+tile.test_block.name=Green Background
+tile.killer_block.name=Killer Block
+tile.cave_block.name=Cave Block
+tile.jump_pad.name=Jump Pad
+tile.landing_pad.name=Landing Pad
+tile.aerum_chest.name=Aerum Chest
+
+entity.magiball.name=Magiball
+
+gui.config.main_title=Aerum Mod Config
+gui.config.aerum_boots_particles=Particles
+
+config.aerum_boots.particles.comment.name=Activer ou desactiver les particlules des bottes en Aerum
+
+container.aerum_chest=Aerum Chest
+
+key.categories.aerum=Aerum
+
+modmarcjus.up_elevator=Monter d'un niveau d'elevateur
+modmarcjus.down_elevator=Descendre d'un niveau d'elevateur
+
+itemGroup.modmarcjus=Aerum
+
+menu.localserver=Local Server
+menu.main.controls=Controls...
+
+enchantment.double_jump=Double Jump
+enchantment.infinite_jump=Infinite Jump

@@ -1,0 +1,9 @@
+{
+    "parent": "block/orientable",
+    "textures": {
+    	"particle": "modmarcjus:blocks/elevator",
+        "top": "modmarcjus:blocks/elevator",
+        "side": "modmarcjus:blocks/elevator_side",
+        "front": "modmarcjus:blocks/elevator_side"
+    }
+}
